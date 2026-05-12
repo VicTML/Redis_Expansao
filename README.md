@@ -165,5 +165,3 @@ REDIS_DB=0
 5. PR
 
 ## 📄 Licença
-
-MIT

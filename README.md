@@ -146,16 +146,6 @@ docker-compose down
 # Logs
 docker-compose logs -f api
 ```
-
-## 📝 Variáveis de Ambiente
-
-Crie `.env`:
-```env
-REDIS_HOST=redis
-REDIS_PORT=6379
-REDIS_DB=0
-```
-
 ## 🤝 Contribuindo
 
 1. Fork
